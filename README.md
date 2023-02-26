@@ -3,7 +3,7 @@
 <h3> about me </h3>
   
 - ⭐ novice-level programming experience
-- 💀 mostly working on **private repositories**
+- 🦄 mostly working on **private repositories**
 - 👾 currently learning:  
 
     <img src = "https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=orange" alt = "rust" />
