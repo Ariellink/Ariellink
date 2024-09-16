@@ -2,7 +2,6 @@
 
 <h3> about me </h3>
   
-- ⭐ novice-level programming experience
 - 🦄 mostly working on **private repositories**
 - 👾 currently learning:  
 
